@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://arod571431.github.io/2021/02/28/%E5%8D%87%E5%AD%B8%E8%A6%8F%E5%8A%83/</loc>
-    
-    <lastmod>2021-02-28</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://arod571431.github.io/2021/02/20/abcr192/</loc>
     
     <lastmod>2021-02-20</lastmod>
@@ -257,13 +250,6 @@
   
   <url>
     <loc>https://arod571431.github.io/tags/Atcoder%E8%A7%A3%E9%A1%8C/</loc>
-    <lastmod>2021-02-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://arod571431.github.io/tags/%E9%9B%9C%E8%AB%87/</loc>
     <lastmod>2021-02-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
